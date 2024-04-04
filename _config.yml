@@ -41,8 +41,12 @@ defaults:
     values:
       tags: Other
 
-collections:
-  - topics:
+# collections:
+#   - topics:
 
 # include:
 #   - _pages
+
+collections:
+  staff_members:
+    output: true
