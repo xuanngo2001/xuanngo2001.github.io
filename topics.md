@@ -5,9 +5,9 @@ title: Topics 13456
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
-  <h4>Xuan2 - topic</h4>
+  <h4>Xuan5 - topic</h4>
   <ul>
-    {% for topic in tag[1] %}
+    {% for topic in topics %}
       <li><a href="{{ topic.url }}">{{ topic.date | date: "%B %Y" }} - {{ topic.title }}</a></li>
     {% endfor %}
   </ul>
