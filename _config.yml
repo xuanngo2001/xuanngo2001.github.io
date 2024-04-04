@@ -42,8 +42,7 @@ defaults:
       tags: Other
 
 collections:
-  topics:
-  output: true
+  - topics:
 
 # include:
 #   - _pages
