@@ -43,6 +43,7 @@ defaults:
 
 collections:
   topics:
+  output: true
 
 # include:
 #   - _pages
