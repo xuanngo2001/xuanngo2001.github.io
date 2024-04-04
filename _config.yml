@@ -41,14 +41,7 @@ defaults:
     values:
       tags: Other
 
-# collections:
-#   - topics:
-
-# include:
-#   - _pages
-
 collections:
-  staff_members:
-    output: true  
+  - staff_members
   topics:
     output: true
