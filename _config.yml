@@ -48,5 +48,6 @@ defaults:
 #   - _pages
 
 collections:
-  staff_members:
-    output: true
+  - staff_members
+  topics:
+    output: true    

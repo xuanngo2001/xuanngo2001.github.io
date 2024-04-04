@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topics
+title: Topics 02
 ---
 
 {% for topic in site.topics %}
