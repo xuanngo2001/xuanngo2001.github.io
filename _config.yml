@@ -41,10 +41,8 @@ defaults:
     values:
       tags: Other
 
-# collections:
-#   topic:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  topics:
 
 # include:
 #   - _pages
