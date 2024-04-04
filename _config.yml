@@ -40,3 +40,8 @@ defaults:
       type: post
     values:
       tags: Other
+
+collections:
+  kn:
+    output: true
+    permalink: /:collection/:path/
