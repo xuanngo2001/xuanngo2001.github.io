@@ -42,6 +42,7 @@ defaults:
       tags: Other
 
 collections:
-  - staff_members
+  staff_members:
+    output: true  
   topics:
     output: true
