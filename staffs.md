@@ -1,3 +1,8 @@
+---
+layout: page
+title: Staffs 01
+---
+
 {% for staff_member in site.staff_members %}
   <h2>
     <a href="{{ staff_member.url }}">
