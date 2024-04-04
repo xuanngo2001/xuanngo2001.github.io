@@ -1,5 +1,5 @@
 ---
-name: Jane Doe 1
+name: Jane Doe 2
 position: Developer
 ---
 Jane has worked on Jekyll for the past *five years*.
