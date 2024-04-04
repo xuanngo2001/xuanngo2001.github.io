@@ -50,4 +50,4 @@ defaults:
 collections:
   - staff_members
   topics:
-    output: true    
+    output: true
