@@ -1,3 +1,7 @@
+---
+name: kirk Doe 1
+position: Developer
+---
 ## Axios basic
 ```js
 // Write binary data / Download binary file.
@@ -20,4 +24,14 @@
 // Config Defaults
     axios.defaults.baseURL = "https://axiosexample.com";
     axios.defaults.headers.common["Authorization"] = AUTH_TOKEN
+```
+
+```javascript
+function sayHello(name) {
+  if (!name) {
+    console.log('Hello World');
+  } else {
+    console.log(`Hello ${name}`);
+  }
+}
 ```
