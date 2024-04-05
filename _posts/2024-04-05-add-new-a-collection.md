@@ -27,6 +27,7 @@ collections:
     ```
 
 ## List all topics on a page
+
 1. Add `topics.md` at the root level.
     ```md
     ---
@@ -42,6 +43,7 @@ collections:
     ```
 
 ## Set custom layout for your collection
+
 Duplicate `_layouts/post.html` and save it `_layouts/topic.html`.
 Modify it to your likings.
 
