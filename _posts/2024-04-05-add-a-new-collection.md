@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Add new a collection"
+title:  "Add a new collection"
 ---
 
-# Add new a collection
+# Add a new collection
 I consider a collection as a content data type. For example, pages and posts are different content data type.
 
 ## Create custom collection
