@@ -1,6 +1,6 @@
 ---
-name: kirk Doe 1
-position: Developer
+layout: topic
+title: Axios basic
 ---
 ## Axios basic
 ```js
