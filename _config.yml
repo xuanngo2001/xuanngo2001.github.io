@@ -23,10 +23,14 @@ theme: "minima"
 rss: rss
 
 markdown: kramdown
+highlighter: rouge
+
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
+      line_numbers: true
+    span:
       line_numbers: true
     
 plugins:
