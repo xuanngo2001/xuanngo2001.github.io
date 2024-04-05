@@ -24,7 +24,6 @@ rss: rss
 
 markdown: kramdown
 highlighter: rouge
-    input: GFM
     
 plugins:
   - jekyll-feed
