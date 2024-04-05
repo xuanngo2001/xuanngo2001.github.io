@@ -24,6 +24,7 @@ New-Item -ItemType Directory -Force -Path $dir_path  | Out-Null
 
 # Create md file.
 $title = [System.IO.Path]::GetFileNameWithoutExtension($FilePath)
+$title = ( Get-Culture ).TextInfo.ToTitleCase( $title.ToLower() )
 $front_matter = @"
 ---
 layout: topic

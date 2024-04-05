@@ -1,6 +1,6 @@
 ---
 layout: topic
-title:  "file"
+title:  "File"
 ---
 
-# file
+# File
