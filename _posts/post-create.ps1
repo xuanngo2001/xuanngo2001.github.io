@@ -11,6 +11,8 @@ $front_matter = @"
 layout: post
 title:  "${Title}"
 ---
+
+# ${Title}
 "@
 
 $out_md_file = "${today}-${title_formattted}.md"
